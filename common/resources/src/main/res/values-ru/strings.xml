@@ -30,6 +30,7 @@
     <string name="credits">Спасибо этим людям!</string>
     <string name="credits_desc">Упоминания используемых библиотек и авторов</string>
     <string name="enable_artist_name">Включить имя артиста</string>
+    <string name="enable_album_name">Enable Album Name</string>
     <string name="show_app_icon">Показывать иконку приложения</string>
     <string name="enable_timestamps">Включить временные метки</string>
     <string name="text_after_permission_denied">Доступ к хранилищу важен для этого приложения, чтобы хранить конфигурации в общедоступных каталогах. Пожалуйста, дайте разрешение.</string>
@@ -91,4 +92,9 @@
     <string name="share_config">Поделиться конфигурацией</string>
     <string name="change_log">Список изменений</string>
     <string name="update">Обновить</string>
+    <string name="configs_directory">Директория конфигураций</string>
+    <string name="custom_activity_type">Свой тип активности</string>
+    <string name="custom_activity_type_desc">Меняет стандартный тип активности на выбранный вами. Работает только для Media и Experimental RPC</string>
+    <string name="custom_activity_status">Свой статус активности</string>
+    <string name="custom_activity_status_desc">Меняет стандартный статус активности на ваш.</string>
 </resources>
